@@ -49,4 +49,4 @@ Attribute information For bank dataset
   
   17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
-  18. Missing Attribute Values: None
+  18 - Missing Attribute Values: None
