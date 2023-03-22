@@ -46,6 +46,7 @@ Attribute information For bank dataset
   16 - poutcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
   Output variable (desired target):
+  
   17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
-8. Missing Attribute Values: None
+  18. Missing Attribute Values: None
